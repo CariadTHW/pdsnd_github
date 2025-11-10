@@ -7,7 +7,7 @@ The project was created on 10.11.2025.
 pdsnd_github
 
 ### Description
-Describe what your project is about and what it does
+The description should be better than this.
 
 ### Files used
 Include the files used
